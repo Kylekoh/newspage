@@ -12,7 +12,7 @@ class Main extends Component {
                             “올해도 혼자보내나 했는데.. 이게 뭐라고 설레죠?ㅎ”
                         </div>
                         <div className="syub_head">
-                            “여자 분이 스케이트 타고 싶다고 하시는데 어디가 좋을까요ㅎㅎ"
+                            “여자 분이 스케이트 타고 싶다고 하시는데 어디가 좋을까요?"
                         </div>
                     </div>
                     <div className="sec_para">
