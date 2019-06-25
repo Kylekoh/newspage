@@ -10,7 +10,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "material-icons-react": "^1.0.4",
-    "homepage" : "https://kylekoh.github.io/newspage/",
+    "homepage": "https://kylekoh.github.io/newspage",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
