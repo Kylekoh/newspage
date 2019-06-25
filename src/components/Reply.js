@@ -72,7 +72,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                캐롤에다 거리 분위기까지.. 첨 보는 사이지만 대부분 썸이나 연인되지않을까
+                                    캐롤에다 거리 분위기까지.. 첨 보는 사이지만 대부분 썸이나 연인되지않을까
                                 </span>
                             </div>
                             <div className="third_line">
@@ -134,7 +134,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                남자친구랑 헤어지고싶다
+                                헤어지지 못하는 여자 떠나가지 못하는 남자
                                 </span>
                             </div>
                             <div className="third_line">

@@ -9,9 +9,10 @@ import './Title.css';
 class Title extends Component {
     render() {
         return (
-            <Fragment>
+            <div className="main_wrapper">
                 <div className="main_title">
-                    [화제] “크리스마스에 일일 데이트 어때요?” 연말 데이트 사전 예약 어플 화제
+                    <span>[화제] “크리스마스에 일일 데이트 어때요?”</span>
+                    <span>연말 데이트 사전 예약 어플 화제</span>
                 </div>
                 <div className="news_date">
                     기사 입력 2017.11.02 오후 01:016
@@ -36,7 +37,7 @@ class Title extends Component {
                         </button>
                     </div>
                 </div>
-            </Fragment>
+            </div>
         );
     }
 }

@@ -119,8 +119,15 @@
     color: gray;
 }
 
+.second_line {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
 .second_line span {
     font-size: 1.2rem;
+    text-align: left;
 }
 
 .third_line {
@@ -173,4 +180,26 @@
     padding-bottom: 1rem;
     /* border-bottom: 1px solid #E1E4E5; */
     font-size: 1.1rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .reply_header p {
+        font-size: 1rem;
+    }
+
+    .reply_input {
+        font-size: 1rem;
+    }
+
+    .second_line span {
+        font-size: 1rem;
+    }
+
+    .third_line {
+        font-size: 0.9rem;  
+    }
+    
+    .see_more_wrapper {
+        font-size: 0.9rem;
+    }
 }
