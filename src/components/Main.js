@@ -1,6 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import MaterialIcon, {colorPalette} from 'material-icons-react';
 
+import Advertisement from './Advertisement';
+
 import './Main.css';
 
 class Main extends Component {
@@ -19,6 +21,7 @@ class Main extends Component {
                         <img src={require('../images/image2.jpg')} alt="main_image1" />
                         <p>[AP=뉴스체크]</p>
                     </div>
+                    <Advertisement></Advertisement>
                     <div className="third_para">
                         <div className="third_para_cont">
                         크리스마스 일일 데이트를 예약해주는 서비스가 화제다. 크리스마스 연휴에 데이트 할 이성을 매칭해주는 서비스로, 애인이 없어도 크리스마스에는 혼자 있고 싶지 않은 사람들의 심리가 잘 반영 되었다는 반응. 주 사용자 층은 당장 연애를 하고 있진 않지만 이성과 만남의 끈을 놓지 않는 2,30대 싱글 남녀들이다.

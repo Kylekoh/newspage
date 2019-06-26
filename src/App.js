@@ -6,8 +6,8 @@ import Main from './components/Main';
 import Title from './components/Title';
 import Header from './components/Header';
 import Reply from './components/Reply';
-import Category from './components/Category';
 import Footer from './components/Footer';
+import Advertisement from './components/Advertisement';
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <Header></Header>
       <Title></Title>
       <Main></Main>
-      <Category></Category> 
+      <Advertisement></Advertisement>
       <Reply></Reply>
       <Footer></Footer> 
     </div>
