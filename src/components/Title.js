@@ -15,7 +15,7 @@ class Title extends Component {
                     <span>연말 데이트 사전 예약 어플 화제</span>
                 </div>
                 <div className="news_date">
-                    기사 입력 2017.11.02 오후 01:016
+                    기사 입력 2019.06.26 오후 01:016
                 </div>
                 <div className="num_reply">
                     <div className="rep_wrapper">

@@ -18,7 +18,7 @@
     "react-scripts": "^3.0.1"
   },
   "react-popper": "0.10.4",
-  "homepage": "https://kylekoh.github.io/newspage",
+  "homepage": "https://newspick.shop",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
