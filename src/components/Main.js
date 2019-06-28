@@ -2,6 +2,7 @@ import React, { Component, Fragment } from 'react';
 import MaterialIcon, {colorPalette} from 'material-icons-react';
 
 import Advertisement from './Advertisement';
+import Ad_azi from './Ad_azi';
 
 import './Main.css';
 
@@ -21,7 +22,7 @@ class Main extends Component {
                         <img src={require('../images/azinang0.jpg')} alt="main_image1" />
                         <p>[AP=뉴스픽]</p>
                     </div>
-                    <Advertisement></Advertisement>
+                    <Ad_azi></Ad_azi>
                     <div className="third_para">
                         <div className="third_para_cont">
                         반려인 1000만명 시대를 맞아 삼성카드는 반려동물과 반려인들의 행복한 동행을 위해 커뮤니티 ‘아지냥이’를 운용하며 다양한 컨텐츠를 제공하고 있다. 

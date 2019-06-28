@@ -7,7 +7,7 @@ import Title from './components/Title';
 import Header from './components/Header';
 import Reply from './components/Reply';
 import Footer from './components/Footer';
-import Advertisement from './components/Advertisement';
+import Ad_azi from './components/Ad_azi';
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
       <Header></Header>
       <Title></Title>
       <Main></Main>
-      <Advertisement></Advertisement>
+      <Ad_azi></Ad_azi>
       <Reply></Reply>
       <Footer></Footer> 
     </div>
