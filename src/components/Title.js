@@ -11,8 +11,8 @@ class Title extends Component {
         return (
             <div className="main_wrapper">
                 <div className="main_title">
-                    <span>[화제] “크리스마스에 일일 데이트 어때요?”</span>
-                    <span>연말 데이트 사전 예약 어플 화제</span>
+                    <span>[화제] 내 맘까지 읽은거'냥'..</span>
+                    <span>반려인들을 위한 필수앱 '아지냥이'</span>
                 </div>
                 <div className="news_date">
                     기사 입력 2019.06.26 오후 01:016
@@ -20,7 +20,7 @@ class Title extends Component {
                 <div className="num_reply">
                     <div className="rep_wrapper">
                         <FontAwesomeIcon icon={faComment} />
-                        <span>239</span>
+                        <span>118</span>
                     </div>
                     <div className="imo_wrapper">
                         <button className="short_cut">

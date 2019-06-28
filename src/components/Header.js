@@ -6,7 +6,7 @@ class Header extends Component {
     render() {
         return (
                 <div className="header_wrapper">
-                    뉴스 IT
+                    뉴스픽 | 리빙
                 </div>
         );
     }

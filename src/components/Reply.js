@@ -9,7 +9,7 @@ class Reply extends Component {
         return (
                 <div className="reply_wrapper">
                     <div className="reply_header">
-                        <p>댓글 239</p>
+                        <p>댓글 118</p>
                         <div className="reply_input">
                             <span className="input_txt">로그인 해주세요</span>
                             <div className="input_imo">
@@ -32,7 +32,7 @@ class Reply extends Component {
                         <div className="reply_first">
                             <div className="first_line">
                                 <div> 
-                                    <span className="nick">minhah</span>
+                                    <span className="nick">minhahaha</span>
                                     <span className="wri_time">1시간전</span>
                                 </div>
                                 <span>
@@ -41,7 +41,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                    여친 있지만 이런거 나오면 솔깃하는게 사실. 이라고 하면 욕먹으려낰ㅋㅋ 
+                                    강아지 어플에센 쵝오 ~~^^
                                 </span>
                             </div>
                             <div className="third_line">
@@ -63,7 +63,7 @@ class Reply extends Component {
                         <div className="reply_first">
                             <div className="first_line">
                                 <div> 
-                                    <span className="nick">koztwe</span>
+                                    <span className="nick">kozelia</span>
                                     <span className="wri_time">1시간전</span>
                                 </div>
                                 <span>
@@ -72,7 +72,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                    캐롤에다 거리 분위기까지.. 첨 보는 사이지만 대부분 썸이나 연인되지않을까
+                                진짜 좋음 추천하가 갠찬은데 아쉬운점은 날짜별로 몸무게 적는곳도 있으면 좋겠음 ㅜ
                                 </span>
                             </div>
                             <div className="third_line">
@@ -94,7 +94,7 @@ class Reply extends Component {
                         <div className="reply_first">
                             <div className="first_line">
                                 <div> 
-                                    <span className="nick">허태섭</span>
+                                    <span className="nick">ggulchui</span>
                                     <span className="wri_time">1시간전</span>
                                 </div>
                                 <span>
@@ -103,7 +103,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                한번도 못 본 사람이랑 크리스마스데이트??.. 좌표점ㅎ
+                                    매번 병원 다닐수도 없고 이렇게 편하게 정보 얻을수 잇어서 너무 좋네요ㅜㅜ
                                 </span>
                             </div>
                             <div className="third_line">
@@ -125,7 +125,7 @@ class Reply extends Component {
                         <div className="reply_first">
                             <div className="first_line">
                                 <div> 
-                                    <span className="nick">황정민</span>
+                                    <span className="nick">choochoo</span>
                                     <span className="wri_time">1시간전</span>
                                 </div>
                                 <span>
@@ -134,7 +134,7 @@ class Reply extends Component {
                             </div>   
                             <div className="second_line">
                                 <span>
-                                헤어지지 못하는 여자 떠나가지 못하는 남자
+                                    초보집사에요. 다다가 문제행동을 보이거나 아플 때 질문을 올리면 친절하게 답해줘서 좋아요. 아지냥이 통해서 많이 배웁니다
                                 </span>
                             </div>
                             <div className="third_line">
