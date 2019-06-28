@@ -28,7 +28,7 @@ class Advertisement extends Component {
                             </a>
                     </div>
                     <div className="ad_one">
-                            <a href="http://yatag.me/t5zevxxkiu" className="ad_link">
+                            <a href="http://fortoria.store/t5y5iqtguv" className="ad_link">
                                 <div className="ad_img">
                                     <img src={require('../images/ad/ad2.png')} alt="main_image1" />
                                 </div>
