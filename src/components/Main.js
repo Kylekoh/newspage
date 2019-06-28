@@ -55,7 +55,14 @@ class Main extends Component {
                         아지냥이에 가입하면 매달 새롭게 업데이트되는 할인쿠폰이나 이벤트를 통해 반려동물 사료, 의류, 기타용품 등의 다양한 경품, 할인 혜택을 받을 수 있다. 아지냥이는 삼성카드 회원이 아니어도 누구나 모바일 앱을 통해 가입하고 무료로 이용할 수 있다.
                         아지랑이 관계자는 “이러한 커뮤니를 통해 지치고 힘든 사람들에게 심리적 안정과 힐링을 주는 ‘디지털 소통’ 공간을 제공함으로써 고객들의 삶이 좀 더 윤택해지기를 바란다”고 말했다.
                         </div>
-                    </div>                    
+                    </div>
+                    <div className="and_container">
+                        <p className="android">앱다운받기(버튼클릭)  >>  
+                            <a href="http://yatag.me/t5zdy6h2us">
+                                <img src={require('../images/and_down.svg')} alt="main_image1" />
+                            </a>      
+                        </p> 
+                    </div>                   
                     <p className="copyright">[저작권자(c) 뉴스픽 무단전재 및 재배포 금지]</p>
                     <div className="foot_imo">
                         <button className="news_view">

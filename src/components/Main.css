@@ -66,6 +66,22 @@
     max-width: 100%;
 }
 
+.android {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: blue;
+}
+
+.android img {
+    width: 150px;
+    margin-left: 1rem;
+}
+
 .foot_imo {
     width: 100%;
     /* border : 1px solid red; */
@@ -101,7 +117,7 @@
 
 @media only screen and (max-width: 600px) {
     .first_para {
-        font-size: 1.1rem;
+        font-size: 1rem;
         font-weight: bold;
     }
 
