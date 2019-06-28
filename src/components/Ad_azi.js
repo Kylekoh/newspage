@@ -13,7 +13,7 @@ class Advertisement extends Component {
                                     <img src={require('../images/ad/ad5.jpg')} alt="main_image1" />
                                 </div>
                                 <div className="ad_contents">
-                                    당신이 PCIK한 강아지는? | 전 국민 모두 '평가하기'하고 경품 받기
+                                    당신이 PICK한 강아지는? | 전 국민 모두 '평가하기'하고 경품 받기
                                 </div>
                             </a>
                     </div>           

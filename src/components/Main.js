@@ -30,7 +30,7 @@ class Main extends Component {
                     </div>
                     <div className="sec_para">
                         <img src={require('../images/azinang1.jpg')} alt="main_image1" />
-                        <p>[AP=아지냥이 앱 화면]</p>
+                        <p>[AP=아지냥이 앱 실행화면]</p>
                     </div>
                     <div className="third_para">
                         <div className="third_para_cont">
@@ -39,7 +39,7 @@ class Main extends Component {
                     </div>
                     <div className="sec_para">
                         <img src={require('../images/azinang2.jpg')} alt="main_image1" />
-                        <p>[AP=아지냥이 제공]</p>
+                        <p>[AP=아지냥이 앱 실행화면]</p>
                     </div>
                     <div className="third_para">
                         <div className="third_para_cont">
@@ -57,7 +57,7 @@ class Main extends Component {
                         </div>
                     </div>
                     <div className="and_container">
-                        <p className="android">앱다운받기(버튼클릭)  >>  
+                        <p className="android">앱다운받기(버튼클릭) >>  
                             <a href="http://yatag.me/t5zdy6h2us">
                                 <img src={require('../images/and_down.svg')} alt="main_image1" />
                             </a>      
